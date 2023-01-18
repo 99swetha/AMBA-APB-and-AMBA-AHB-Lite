@@ -1,0 +1,2 @@
+- Designed FSM for unpipelined, low bandwidth APB and pipelined, high bandwidth AHB Protocol.
+- Modeled in Verilog using Icarus Verilog and performed waveform analysis using GTKWave.
